@@ -22,7 +22,7 @@ $query->execute();
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>OCMMS || Dashboard</title>
+    <title>E-Learning|| Dashboard</title>
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

@@ -28,7 +28,7 @@ $query->bindParam(':eid',$eid,PDO::PARAM_STR);
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>OCMMS || Update Course</title>
+    <title>E-Learning|| Update Course</title>
   
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">

@@ -37,7 +37,7 @@ echo "<script>window.location.href ='add-class.php'</script>";
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>OCMMS || Add Class</title>
+    <title>E-Learning|| Add Class</title>
   
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">

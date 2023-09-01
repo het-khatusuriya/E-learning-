@@ -91,7 +91,7 @@ foreach($results as $row)
 {               ?>
                                 
                                 <div class="mb-3">
-                                    <label for="exampleInputEmail2" class="form-label">Course Title</label>
+                                    <label for="exampleInputEmail2" class="form-label">Chapter Title</label>
                                     <input type="text" class="form-control"  name="coursetitle" value="<?php  echo htmlentities($row->CourseTitle);?>" readonly='true'>
 
                                     </select>

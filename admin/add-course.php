@@ -89,7 +89,7 @@ echo "<script>window.location.href ='add-course.php'</script>";
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>E-Learning || Add Course</title>
+    <title>E-Learning || Add Chapter</title>
   
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -139,7 +139,7 @@ $("#subject").html(data);
                 <div class="row g-4">
                     <div class="col-sm-12 col-xl-6">
                         <div class="bg-light rounded h-100 p-4">
-                            <h6 class="mb-4">Add Course</h6>
+                            <h6 class="mb-4">Add Chapter</h6>
                             <form method="post" enctype="multipart/form-data">
                                 
                                 <div class="mb-3">
@@ -171,13 +171,13 @@ foreach($results as $row)
                                     </select>
                                 </div>
                                 <div class="mb-3">
-                                    <label for="exampleInputEmail2" class="form-label">Course Title</label>
+                                    <label for="exampleInputEmail2" class="form-label">Chapter Title</label>
                                     <input type="text" class="form-control"  name="coursetitle" value="" required='true'>
 
                                     </select>
                                 </div>
                                 <div class="mb-3">
-                                    <label for="exampleInputEmail2" class="form-label">Course Description</label>
+                                    <label for="exampleInputEmail2" class="form-label">Chapter Description</label>
                                     <textarea class="form-control"  name="coursedesc" value="" required='true'></textarea>
                                 </div>
                                 <div class="mb-3">

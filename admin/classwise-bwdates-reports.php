@@ -11,7 +11,7 @@ if (strlen($_SESSION['ocasaid']==0)) {
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>OCMMS || Between Dates Classwise Reports</title>
+    <title>E-Learning|| Between Dates Classwise Reports</title>
   
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">

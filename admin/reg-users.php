@@ -11,7 +11,7 @@ if (strlen($_SESSION['ocasaid']==0)) {
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>OCMMS || Registered Users</title>
+    <title>E-Learning|| Registered Users</title>
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

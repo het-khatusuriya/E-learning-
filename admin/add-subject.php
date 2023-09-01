@@ -37,7 +37,7 @@ echo "<script>window.location.href ='add-subject.php'</script>";
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>OCMMS || Add Subject</title>
+    <title>E-Learning|| Add Subject</title>
   
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">

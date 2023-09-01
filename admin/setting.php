@@ -37,7 +37,7 @@ echo '<script>alert("Your current password is wrong")</script>';
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>OCMMS || Profile</title>
+    <title>E-Learning|| Profile</title>
   
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">

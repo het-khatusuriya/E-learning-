@@ -35,7 +35,7 @@ echo "<script>alert('Email id or Mobile no is invalid');</script>";
 
 <head>
     
-    <title>OCMMS || Signin</title>
+    <title>E-Learning|| Signin</title>
    
 
     <!-- Google Web Fonts -->

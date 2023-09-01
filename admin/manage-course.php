@@ -22,7 +22,7 @@ $query->execute();
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>OCMMS || Manage Course</title>
+    <title>E-Learning|| Manage Chapter</title>
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -55,7 +55,7 @@ $query->execute();
                     <div class="container-fluid pt-4 px-4">
                 <div class="bg-light text-center rounded p-4">
                     <div class="d-flex align-items-center justify-content-between mb-4">
-                        <h6 class="mb-0">Manage Course</h6>
+                        <h6 class="mb-0">Manage Chapter</h6>
                         
                     </div>
                     <div class="table-responsive">
@@ -65,7 +65,7 @@ $query->execute();
                                     <th scope="col">#</th>
                                     <th scope="col">Class</th>
                                     <th scope="col">Subject</th>
-                                    <th scope="col">Course Title</th>
+                                    <th scope="col">Chapter Title</th>
                                     <th scope="col">Creation Date</th>
                                     <th scope="col">Action</th>
                                 </tr>
