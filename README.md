@@ -44,4 +44,4 @@ This repository contains the code for an E-learning platform. The project aims t
 5. Open a pull request.
 
 ## Contact
-For any queries or support, please contact Het Khatusuriya at het.khatusuriya@example.com.
+For any queries or support, please contact Het Khatusuriya at khatusuriyahet@gmail.com.
