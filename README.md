@@ -4,11 +4,11 @@
 This repository contains the code for an E-learning platform. The project aims to provide an online educational environment where users can access various learning materials and resources.
 
 ## Features
-- **User Authentication:** Secure login and registration system.
-- **Course Management:** Admin panel for managing courses and users.
-- **Responsive Design:** Mobile-friendly layout for accessible learning on any device.
-- **Multimedia Content:** Supports video, audio, and text-based educational materials.
-- **Progress Tracking:** Allows users to track their learning progress.
+- **Login for admin and students**
+- **Course and Material Management:** Can add, modify, or delete course and materials.
+- **User management:** Can add, modify, or delete users.
+- **Q section:** Can arrange quizzes.
+- **Fees Status:** Can view all student's paid and pending fees.
 
 ## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript, SCSS
